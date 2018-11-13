@@ -1,0 +1,536 @@
+state_name,state_code,party,first_name,last_name,gender,race,religion,openly_lgbtq,chamber,age
+Alaska,AK,R,Daniel,Sullivan,Male,White,Christianity,Straight,Senate,54
+Alaska,AK,R,Lisa,Murkowski,Female,White,Christianity,Straight,Senate,61
+Alabama,AL,D,Gordon,Jones,Male,White,Christianity,Straight,Senate,64
+Alabama,AL,R,Richard ,Shelby,Male,White,Christianity,Straight,Senate,84
+Arkansas,AR,R,John,Boozman,Male,White,Christianity,Straight,Senate,68
+Arkansas,AR,R,Tom,Cotton,Male,White,Christianity,Straight,Senate,41
+Arizona,AZ,R,Jeff,Flake,Male,White,Christianity,Straight,Senate,56
+Arizona,AZ,R,John,McCain,Male,White,Christianity,Straight,Senate,82
+California,CA,D,Dianne,Feinstein,Female,White,Judaism,Straight,Senate,85
+California,CA,D,Kamala,Harris,Female,Asian,Christianity,Straight,Senate,54
+Colorado,CO,R,Cory,Gardner,Male,White,Christianity,Straight,Senate,44
+Colorado,CO,D,Michael ,Bennet,Male,White,Unspecified,Straight,Senate,54
+Connecticut,CT,D,Christopher,Murphy,Male,White,Christianity,Straight,Senate,45
+Connecticut,CT,D,Richard,Blumenthal,Male,White,Judaism,Straight,Senate,72
+Delaware,DE,D,Christopher,Coons,Male,White,Christianity,Straight,Senate,55
+Delaware,DE,D,Thomas,Carper,Male,White,Christianity,Straight,Senate,71
+Florida,FL,D,Bill,Nelson,Male,White,Christianity,Straight,Senate,76
+Florida,FL,R,Marco,Rubio,Male,Hispanic,Christianity,Straight,Senate,47
+Georgia,GA,R,David,Perdue,Male,White,Christianity,Straight,Senate,69
+Georgia,GA,R,Johnny,Isakson,Male,White,Christianity,Straight,Senate,74
+Hawaii,HI,D,Brian,Shcatz,Male,White,Judaism,Straight,Senate,46
+Hawaii,HI,D,Mazie,Hirono,Female,Asian,Buddhism,Straight,Senate,71
+Iowa,IA,R,Charles,Grassley,Male,White,Christianity,Straight,Senate,85
+Iowa,IA,R,Joni,Ernst,Female,White,Christianity,Straight,Senate,48
+Idaho,ID,R,James,Risch,Male,White,Christianity,Straight,Senate,75
+Idaho,ID,R,Mike,Crapo,Male,White,Christianity,Straight,Senate,67
+Illinois,IL,D,Richard,Durbin,Male,White,Christianity,Straight,Senate,74
+Illinois,IL,D,Tammy,Duckworth,Female,Asian,Deism,Straight,Senate,50
+Indiana,IN,D,Joe,Donnelly,Male,White,Christianity,Straight,Senate,63
+Indiana,IN,R,Todd,Young,Male,White,Christianity,Straight,Senate,46
+Kansas,KS,R,Jerry,Moran,Male,White,Christianity,Straight,Senate,64
+Kansas,KS,R,Pat,Roberts,Male,White,Christianity,Straight,Senate,82
+Kentucky,KY,R,Mitch,McConnell,Male,White,Christianity,Straight,Senate,76
+Kentucky,KY,R,Rand,Paul,Male,White,Christianity,Straight,Senate,55
+Louisiana,LA,R,Bill,Cassidy,Male,White,Christianity,Straight,Senate,61
+Louisiana,LA,R,John,Kennedy,Male,White,Christianity,Straight,Senate,67
+Massachusetts,MA,D,Edward,Markey,Male,White,Christianity,Straight,Senate,72
+Massachusetts,MA,D,Elizabeth,Warren,Female,White,Christianity,Straight,Senate,69
+Maryland,MD,D,Benjamin,Cardin,Male,White,Judaism,Straight,Senate,75
+Maryland,MD,D,Chris,Van Hollen,Male,White,Christianity,Straight,Senate,59
+Maine,ME,I,Angus,King,Male,White,Christianity,Straight,Senate,74
+Maine,ME,R,Susan,Collins,Female,White,Christianity,Straight,Senate,66
+Michigan,MI,D,Debbie,Stabenow,Female,White,Christianity,Straight,Senate,68
+Michigan,MI,D,Gary,Peters,Male,White,Christianity,Straight,Senate,60
+Minnesota,MN,D,Tina,Smith,Female,White,Unspecified,Straight,Senate,60
+Minnesota,MN,D,Amy,Klobuchar,Female,White,Christianity,Straight,Senate,58
+Missouri,MO,D,Claire,McCaskill,Female,White,Christianity,Straight,Senate,65
+Missouri,MO,R,Roy,Blunt,Male,White,Christianity,Straight,Senate,68
+Mississippi,MS,R,Roger,Wicker,Male,White,Christianity,Straight,Senate,67
+Mississippi,MS,R,Thad,Cochran,Male,White,Christianity,Straight,Senate,81
+Montana,MT,D,Jon,Tester,Male,White,Christianity,Straight,Senate,62
+Montana,MT,R,Steve,Daines,Male,White,Christianity,Straight,Senate,56
+North Carolina,NC,R,Richard,Burr,Male,White,Christianity,Straight,Senate,63
+North Carolina,NC,R,Thom,Tillis,Male,White,Christianity,Straight,Senate,58
+North Dakota,ND,D,Heidi,Heitkamp,Female,White,Christianity,Straight,Senate,63
+North Dakota,ND,R,John,Hoeven,Male,White,Christianity,Straight,Senate,61
+Nebraska,NE,R,Ben,Sasse,Male,White,Christianity,Straight,Senate,46
+Nebraska,NE,R,Deb,Fischer,Female,White,Christianity,Straight,Senate,67
+New Hampshire,NH,D,Jeanne,Shaheen,Female,White,Christianity,Straight,Senate,71
+New Hampshire,NH,D,Margaret,Hassan,Female,White,Christianity,Straight,Senate,60
+New Jersey,NJ,D,Cory,Booker,Male,African-American,Christianity,Straight,Senate,49
+New Jersey,NJ,D,Robert,Menendez,Male,Hispanic,Christianity,Straight,Senate,64
+New Mexico,NM,D,Martin,Heinrich,Male,White,Christianity,Straight,Senate,47
+New Mexico,NM,D,Tom,Udall,Male,White,Christianity,Straight,Senate,70
+Nevada,NV,D,Catherine,Masto,Female,Hispanic,Christianity,Straight,Senate,54
+Nevada,NV,R,Dean,Heller,Male,White,Christianity,Straight,Senate,58
+New York,NY,D,Charles,Schumer,Male,White,Judaism,Straight,Senate,68
+New York,NY,D,Kirsten,Gillibrand,Female,White,Christianity,Straight,Senate,52
+Ohio,OH,R,Rob,Portman,Male,White,Christianity,Straight,Senate,63
+Ohio,OH,D,Sherrod,Brown,Male,White,Christianity,Straight,Senate,66
+Oklahoma,OK,R,James,Inhofe,Male,White,Christianity,Straight,Senate,84
+Oklahoma,OK,R,James,Lankford,Male,White,Christianity,Straight,Senate,50
+Oregon,OR,D,Jeff,Merkley,Male,White,Christianity,Straight,Senate,62
+Oregon,OR,D,Ron,Wyden,Male,White,Judaism,Straight,Senate,69
+Pennsylvania,PA,R,Patrick,Toomey,Male,White,Christianity,Straight,Senate,57
+Pennsylvania,PA,D,Robert,Casey,Male,White,Christianity,Straight,Senate,58
+Rhode Island,RI,D,Jack,Reed,Male,White,Christianity,Straight,Senate,69
+Rhode Island,RI,D,Sheldon,Whitehouse,Male,White,Christianity,Straight,Senate,63
+South Carolina,SC,R,Lindsey,Graham,Male,White,Christianity,Straight,Senate,63
+South Carolina,SC,R,Tim,Scott,Male,African-American,Christianity,Straight,Senate,53
+South Dakota,SD,R,John,Thune,Male,White,Christianity,Straight,Senate,57
+South Dakota,SD,R,Mike,Rounds,Male,White,Christianity,Straight,Senate,64
+Tennessee,TN,R,Bob,Corker,Male,White,Christianity,Straight,Senate,66
+Tennessee,TN,R,Lamar,Alexander,Male,White,Christianity,Straight,Senate,78
+Texas,TX,R,John,Cornyn,Male,White,Christianity,Straight,Senate,66
+Texas,TX,R,Ted,Cruz,Male,Hispanic,Christianity,Straight,Senate,48
+Utah,UT,R,Mike,Lee,Male,White,Christianity,Straight,Senate,47
+Utah,UT,R,Orrin,Hatch,Male,White,Christianity,Straight,Senate,84
+Virginia,VA,D,Mark,Warner,Male,White,Christianity,Straight,Senate,64
+Virginia,VA,D,Tim,Kaine,Male,White,Christianity,Straight,Senate,60
+Vermont,VT,I,Bernard,Sanders,Male,White,Judaism,Straight,Senate,77
+Vermont,VT,D,Patrick,Leahy,Male,White,Christianity,Straight,Senate,78
+Washington,WA,D,Maria,Cantwell,Female,White,Christianity,Straight,Senate,60
+Washington,WA,D,Patty,Murray,Female,White,Christianity,Straight,Senate,68
+Wisconsin,WI,R,Ron,Johnson,Male,White,Christianity,Straight,Senate,63
+Wisconsin,WI,D,Tammy,Baldwin,Female,White,Unspecified,Straight,Senate,56
+West Virginia,WV,D,Joe,Manchin,Male,White,Christianity,Straight,Senate,71
+West Virginia,WV,R,Shelley,Capito,Female,White,Christianity,Straight,Senate,65
+Wyoming,WY,R,John,Barrasso,Male,White,Christianity,Lesbian,Senate,66
+Wyoming,WY,R,Michael,Enzi,Male,White,Christianity,Straight,Senate,74
+Alaska,AK,R,Don,Young,Male,White,Christianity,Straight,House,85
+Alabama,AL,R,Bradley,Byrne,Male,White,Christianity,Straight,House,63
+Alabama,AL,R,Martha,Roby,Female,White,Christianity,Straight,House,42
+Alabama,AL,R,Mike,Rogers,Male,White,Christianity,Straight,House,60
+Alabama,AL,R,Robert,Aderholt,Male,White,Christianity,Straight,House,53
+Alabama,AL,R,Mo,Brooks,Male,White,Christianity,Straight,House,64
+Alabama,AL,R,Gary,Palmer,Male,White,Christianity,Straight,House,64
+Alabama,AL,D,Terri,Sewell,Female,African-American,Christianity,Straight,House,53
+Arkansas,AR,R,Rick,Crawford,Male,White,Christianity,Straight,House,52
+Arkansas,AR,R,French,Hill,Male,White,Christianity,Straight,House,62
+Arkansas,AR,R,Steve,Womack,Male,White,Christianity,Straight,House,61
+Arkansas,AR,R,Bruce,Westerman,Male,White,Christianity,Straight,House,51
+Arizona,AZ,D,Tom,O'Halleran,Male,White,Christianity,Straight,House,72
+Arizona,AZ,R,Martha,McSally,Female,White,Christianity,Straight,House,52
+Arizona,AZ,D,Raul,Grijalva,Male,Hispanic,Christianity,Straight,House,70
+Arizona,AZ,R,Paul,Gosar,Male,White,Christianity,Straight,House,60
+Arizona,AZ,R,Andy,Biggs,Male,White,Christianity,Straight,House,60
+Arizona,AZ,R,David,Schweikert,Male,White,Christianity,Straight,House,56
+Arizona,AZ,D,Ruben,Gallego,Male,Hispanic,Christianity,Straight,House,39
+Arizona,AZ,R,Trent,Franks,Male,White,Christianity,Straight,House,61
+Arizona,AZ,D,Kyrsten,Sinema,Female,White,Unspecified,Bisexual,House,42
+California,CA,R,Doug,LaMalfa,Male,White,Christianity,Straight,House,58
+California,CA,D,Jared,Huffman,Male,White,Unspecified,Straight,House,54
+California,CA,D,John,Garamendi,Male,White,Christianity,Straight,House,73
+California,CA,R,Tom,McClintock,Male,White,Christianity,Straight,House,62
+California,CA,D,Mike,Thompson,Male,White,Christianity,Straight,House,67
+California,CA,D,Doris,Matsui,Female,Asian,Christianity,Straight,House,74
+California,CA,D,Ami,Bera,Male,Asian,Christianity,Straight,House,53
+California,CA,R,Paul,Cook,Male,White,Christianity,Straight,House,75
+California,CA,D,Jerry,McNerney,Male,White,Christianity,Straight,House,67
+California,CA,R,Jeff,Denham,Male,White,Christianity,Straight,House,51
+California,CA,D,Mark,DeSaulnier,Male,White,Christianity,Straight,House,66
+California,CA,D,Nancy,Pelosi,Female,White,Christianity,Straight,House,78
+California,CA,D,Barbara,Lee,Female,African-American,Christianity,Straight,House,72
+California,CA,D,Jackie,Speier,Female,White,Christianity,Straight,House,68
+California,CA,D,Eric,Swalwell,Male,White,Christianity,Straight,House,38
+California,CA,D,Jim,Costa,Male,White,Christianity,Straight,House,66
+California,CA,D,Ro,Khanna,Male,Asian,Hinduism,Straight,House,42
+California,CA,D,Anna,Eshoo,Female,White,Christianity,Straight,House,76
+California,CA,D,Zoe,Lofgren,Female,White,Christianity,Straight,House,71
+California,CA,D,Jimmy,Panetta,Male,White,Christianity,Straight,House,49
+California,CA,R,David,Valadao,Male,White,Christianity,Straight,House,41
+California,CA,R,Devin,Nunes,Male,White,Christianity,Straight,House,45
+California,CA,R,Kevin,McCarthy,Male,White,Christianity,Straight,House,53
+California,CA,D,Salud,Carbajal,Male,Hispanic,Christianity,Straight,House,54
+California,CA,R,Steve,Knight,Male,White,Christianity,Straight,House,52
+California,CA,D,Julia,Brownley,Female,White,Christianity,Straight,House,66
+California,CA,D,Judy,Chu,Female,Asian,Christianity,Straight,House,65
+California,CA,D,Adam,Schiff,Male,White,Judaism,Straight,House,58
+California,CA,D,Tony,Cardenas,Male,Hispanic,Christianity,Straight,House,55
+California,CA,D,Brad,Sherman,Male,White,Judaism,Straight,House,64
+California,CA,D,Pete,Aguilar,Male,Hispanic,Christianity,Straight,House,39
+California,CA,D,Grace,Napolitano,Female,Hispanic,Christianity,Straight,House,82
+California,CA,D,Ted,Lieu,Male,Asian,Christianity,Straight,House,49
+California,CA,D,Jimmy,Gomez,Male,Hispanic,Christianity,Straight,House,44
+California,CA,D,Norma,Torres,Female,Hispanic,Christianity,Straight,House,53
+California,CA,D,Raul,Ruiz,Male,Hispanic,Christianity,Straight,House,46
+California,CA,D,Karen,Bass,Female,African-American,Christianity,Straight,House,65
+California,CA,D,Linda,Sánchez,Female,Hispanic,Christianity,Straight,House,49
+California,CA,R,Ed,Royce,Male,White,Christianity,Straight,House,67
+California,CA,D,Lucille,Roybal-Allard,Female,Hispanic,Christianity,Straight,House,77
+California,CA,D,Mark,Takano,Male,Asian,Christianity,Gay,House,58
+California,CA,R,Ken,Calvert,Male,White,Christianity,Straight,House,65
+California,CA,D,Maxine,Waters,Female,African-American,Christianity,Straight,House,80
+California,CA,D,Nanette,Barragan,Female,Hispanic,Christianity,Straight,House,42
+California,CA,R,Mimi,Walters,Female,White,Christianity,Straight,House,56
+California,CA,D,Luis,Correa,Male,Hispanic,Christianity,Straight,House,60
+California,CA,D,Alan,Lowenthal,Male,White,Judaism,Straight,House,77
+California,CA,R,Dana,Rohrabacher,Male,White,Christianity,Straight,House,71
+California,CA,R,Darrell,Issa,Male,White,Christianity,Straight,House,65
+California,CA,R,Duncan,Hunter,Male,White,Christianity,Straight,House,42
+California,CA,D,Juan,Vargas,Male,Hispanic,Christianity,Straight,House,57
+California,CA,D,Scott,Peters,Male,White,Christianity,Straight,House,60
+California,CA,D,Susan,Davis,Female,White,Judaism,Straight,House,74
+Colorado,CO,D,Diana,DeGette,Female,White,Christianity,Straight,House,61
+Colorado,CO,D,Jared,Polis,Male,White,Judaism,Gay,House,43
+Colorado,CO,R,Scott,Tipton,Male,White,Christianity,Straight,House,62
+Colorado,CO,R,Ken,Buck,Male,White,Christianity,Straight,House,59
+Colorado,CO,R,Doug,Lamborn,Male,White,Christianity,Straight,House,64
+Colorado,CO,R,Mike,Coffman,Male,White,Christianity,Straight,House,63
+Colorado,CO,D,Ed,Perlmutter,Male,White,Christianity,Straight,House,65
+Connecticut,CT,D,John,Larson,Male,White,Christianity,Straight,House,70
+Connecticut,CT,D,Joe,Courtney,Male,White,Christianity,Straight,House,65
+Connecticut,CT,D,Rosa,DeLauro,Female,White,Christianity,Straight,House,75
+Connecticut,CT,D,Jim,Himes,Male,White,Christianity,Straight,House,52
+Connecticut,CT,D,Elizabeth,Esty,Female,White,Christianity,Straight,House,59
+Delaware,DE,D,Lisa,Blunt Rochester,Female,African-American,Unspecified,Straight,House,56
+Florida,FL,R,Matt,Gaetz,Male,White,Christianity,Straight,House,36
+Florida,FL,R,Neal,Dunn,Male,White,Unspecified,Straight,House,65
+Florida,FL,R,Ted,Yoho,Male,White,Christianity,Straight,House,63
+Florida,FL,R,John,Rutherford,Male,White,Christianity,Straight,House,66
+Florida,FL,D,Al,Lawson,Male,African-American,Christianity,Straight,House,70
+Florida,FL,R,Ron,DeSantis,Male,White,Christianity,Straight,House,40
+Florida,FL,D,Stephanie,Murphy,Female,Asian,Unspecified,Straight,House,40
+Florida,FL,R,Bill,Posey,Male,White,Christianity,Straight,House,71
+Florida,FL,D,Darren,Soto,Male,Hispanic,Christianity,Straight,House,40
+Florida,FL,D,Val,Demings,Female,African-American,Unspecified,Straight,House,61
+Florida,FL,R,Daniel,Webster,Male,White,Christianity,Straight,House,69
+Florida,FL,R,Gus,Bilirakis,Male,White,Christianity,Straight,House,55
+Florida,FL,D,Charlie,Crist,Male,White,Christianity,Straight,House,62
+Florida,FL,D,Kathy,Castor,Female,White,Christianity,Straight,House,52
+Florida,FL,R,Dennis,Ross,Male,White,Christianity,Straight,House,59
+Florida,FL,R,Vern,Buchanan,Male,White,Christianity,Straight,House,67
+Florida,FL,R,Tom,Rooney,Male,White,Christianity,Straight,House,48
+Florida,FL,R,Brian,Mast,Male,White,Christianity,Straight,House,38
+Florida,FL,R,Francis,Rooney,Male,White,Christianity,Straight,House,65
+Florida,FL,D,Alcee,Hastings,Male,African-American,Christianity,Straight,House,82
+Florida,FL,D,Lois,Frankel,Male,White,Judaism,Straight,House,70
+Florida,FL,D,Ted,Deutch,Female,White,Judaism,Straight,House,52
+Florida,FL,D,Debbie,Wasserman Schultz,Female,White,Judaism,Straight,House,52
+Florida,FL,D,Frederica,Wilson,Female,African-American,Christianity,Straight,House,76
+Florida,FL,R,Mario,Diaz-Balart,Male,Hispanic,Christianity,Straight,House,57
+Florida,FL,R,Carlos,Curbelo,Male,Hispanic,Christianity,Straight,House,38
+Florida,FL,R,Ileana,Ros-Lehtinen,Female,Hispanic,Christianity,Straight,House,66
+Georgia,GA,R,Buddy,Carter,Male,White,Christianity,Straight,House,61
+Georgia,GA,D,Sanford,Bishop,Male,African-American,Christianity,Straight,House,71
+Georgia,GA,R,Drew,Ferguson,Male,White,Unspecified,Straight,House,51
+Georgia,GA,D,Henry,Johnson,Male,African-American,Buddhism,Straight,House,64
+Georgia,GA,D,John,Lewis,Male,African-American,Christianity,Straight,House,78
+Georgia,GA,R,Karen,Handel,Female,White,Christianity,Straight,House,56
+Georgia,GA,R,Robert,Woodall,Male,White,Christianity,Straight,House,48
+Georgia,GA,R,Austin,Scott,Male,White,Christianity,Straight,House,49
+Georgia,GA,R,Doug,Collins,Male,White,Christianity,Straight,House,52
+Georgia,GA,R,Jody,Hice,Male,White,Christianity,Straight,House,58
+Georgia,GA,R,Barry,Loudermilk,Male,White,Christianity,Straight,House,55
+Georgia,GA,R,Rick,Allen,Male,White,Christianity,Straight,House,67
+Georgia,GA,D,David,Scott,Male,African-American,Christianity,Straight,House,73
+Georgia,GA,R,Tom,Graves,Male,White,Christianity,Straight,House,48
+Hawaii,HI,D,Colleen,Hanabusa,Female,Asian,Buddhism,Straight,House,67
+Hawaii,HI,D,Tulsi,Gabbard,Female,Pacific Islander,Hinduism,Straight,House,37
+Iowa,IA,R,Rod,Blum,Male,White,Christianity,Straight,House,63
+Iowa,IA,D,David,Loebsack,Male,White,Christianity,Straight,House,66
+Iowa,IA,R,David,Young,Male,White,Christianity,Straight,House,50
+Iowa,IA,R,Steve,King,Male,White,Christianity,Straight,House,69
+Idaho,ID,R,Raúl,Labrador,Male,Hispanic,Christianity,Straight,House,51
+Idaho,ID,R,Mike,Simpson,Male,White,Christianity,Straight,House,68
+Illinois,IL,D,Bobby,Rush,Male,African-American,Christianity,Straight,House,72
+Illinois,IL,D,Robin,Kelly,Female,African-American,Christianity,Straight,House,62
+Illinois,IL,D,Daniel,Lipinski,Male,White,Christianity,Straight,House,52
+Illinois,IL,D,Luis,Gutiérrez,Male,Hispanic,Christianity,Straight,House,65
+Illinois,IL,D,Mike,Quigley,Male,White,Christianity,Straight,House,60
+Illinois,IL,R,Peter,Roskam,Male,White,Christianity,Straight,House,57
+Illinois,IL,D,Danny,Davis,Male,African-American,Christianity,Straight,House,77
+Illinois,IL,D,Raja,Krishnamoorthi,Male,Asian,Hinduism,Straight,House,45
+Illinois,IL,D,Janice,Schakowsky,Female,White,Judaism,Straight,House,74
+Illinois,IL,D,Bradley,Schneider,Male,White,Judaism,Straight,House,57
+Illinois,IL,D,Bill,Foster,Male,White,Unspecified,Straight,House,63
+Illinois,IL,R,Mike,Bost,Male,White,Christianity,Straight,House,58
+Illinois,IL,R,Rodney,Davis,Male,White,Christianity,Straight,House,48
+Illinois,IL,R,Randy,Hultgren,Male,White,Christianity,Straight,House,52
+Illinois,IL,R,John,Shimkus,Male,White,Christianity,Straight,House,60
+Illinois,IL,R,Adam,Kinzinger,Male,White,Christianity,Straight,House,40
+Illinois,IL,D,Cheri,Bustos,Female,White,Christianity,Straight,House,57
+Illinois,IL,R,Darin,LaHood,Male,White,Christianity,Straight,House,50
+Indiana,IN,D,Pete,Visclosky,Male,White,Christianity,Straight,House,69
+Indiana,IN,R,Jackie,Walorski,Female,White,Christianity,Straight,House,55
+Indiana,IN,R,Jim,Banks,Male,White,Unspecified,Straight,House,39
+Indiana,IN,R,Todd,Rokita,Male,White,Christianity,Straight,House,48
+Indiana,IN,R,Susan,Brooks,Female,White,Christianity,Straight,House,58
+Indiana,IN,R,Luke,Messer,Male,White,Christianity,Straight,House,49
+Indiana,IN,D,André,Carson,Male,African-American,Islam,Straight,House,44
+Indiana,IN,R,Larry,Bucshon,Male,White,Christianity,Straight,House,56
+Indiana,IN,R,Trey,Hollingsworth,Male,White,Unspecified,Straight,House,35
+Kansas,KS,R,Roger,Marshall,Male,White,Unspecified,Straight,House,58
+Kansas,KS,R,Lynn,Jenkins,Female,White,Christianity,Straight,House,55
+Kansas,KS,R,Kevin,Yoder,Male,White,Christianity,Straight,House,42
+Kansas,KS,R,Ron,Estes,Male,White,Christianity,Straight,House,62
+Kentucky,KY,R,James,Comer,Male,White,Christianity,Straight,House,46
+Kentucky,KY,R,Brett,Guthrie,Male,White,Christianity,Straight,House,54
+Kentucky,KY,D,John,Yarmuth,Male,White,Judaism,Straight,House,71
+Kentucky,KY,R,Thomas,Massie,Male,White,Christianity,Straight,House,47
+Kentucky,KY,R,Harold,Rogers,Male,White,Christianity,Straight,House,81
+Kentucky,KY,R,Andy,Barr,Male,White,Christianity,Straight,House,45
+Louisiana,LA,R,Steve,Scalise,Male,White,Christianity,Straight,House,53
+Louisiana,LA,D,Cedric,Richmond,Male,African-American,Christianity,Straight,House,45
+Louisiana,LA,R,Clay,Higgins,Male,White,Christianity,Straight,House,57
+Louisiana,LA,R,Mike,Johnson,Male,White,Christianity,Straight,House,46
+Louisiana,LA,R,Ralph,Abraham,Male,White,Christianity,Straight,House,64
+Louisiana,LA,R,Garret,Graves,Male,White,Christianity,Straight,House,46
+Massachusetts,MA,D,Richard,Neal,Male,White,Christianity,Straight,House,69
+Massachusetts,MA,D,James,McGovern,Male,White,Christianity,Straight,House,59
+Massachusetts,MA,D,Niki,Tsongas,Female,White,Christianity,Straight,House,72
+Massachusetts,MA,D,Joe,Kennedy,Male,White,Christianity,Straight,House,38
+Massachusetts,MA,D,Katherine,Clark,Female,White,Christianity,Straight,House,55
+Massachusetts,MA,D,Seth,Moulton,Male,White,Christianity,Straight,House,40
+Massachusetts,MA,D,Michael,Capuano,Male,White,Christianity,Straight,House,66
+Massachusetts,MA,D,Stephen,Lynch,Male,White,Christianity,Straight,House,63
+Massachusetts,MA,D,William,Keating,Male,White,Christianity,Straight,House,66
+Maryland,MD,R,Andy,Harris,Male,White,Christianity,Straight,House,61
+Maryland,MD,D,Dutch,Ruppersberger,Male,White,Christianity,Straight,House,72
+Maryland,MD,D,John,Sarbanes,Male,White,Christianity,Straight,House,56
+Maryland,MD,D,Anthony,Brown,Male,African-American,Christianity,Straight,House,57
+Maryland,MD,D,Steny,Hoyer,Male,White,Christianity,Straight,House,79
+Maryland,MD,D,John,Delaney,Male,White,Christianity,Straight,House,55
+Maryland,MD,D,Elijah,Cummings,Male,African-American,Christianity,Straight,House,67
+Maryland,MD,D,Jamie,Raskin,Male,White,Judaism,Straight,House,56
+Maine,ME,D,Chellie,Pingree,Female,White,Christianity,Straight,House,63
+Maine,ME,R,Bruce,Poliquin,Male,White,Christianity,Straight,House,65
+Michigan,MI,R,Jack,Bergman,Male,White,Christianity,Straight,House,71
+Michigan,MI,R,Bill,Huizenga,Male,White,Christianity,Straight,House,49
+Michigan,MI,R,Justin,Amash,Male,White,Christianity,Straight,House,38
+Michigan,MI,R,John,Moolenaar,Male,White,Christianity,Straight,House,57
+Michigan,MI,D,Daniel,Kildee,Male,White,Christianity,Straight,House,60
+Michigan,MI,R,Fred,Upton,Male,White,Christianity,Straight,House,65
+Michigan,MI,R,Tim,Walberg,Male,White,Christianity,Straight,House,67
+Michigan,MI,R,Mike,Bishop,Male,White,Christianity,Straight,House,51
+Michigan,MI,D,Sandy,Levin,Male,White,Judaism,Straight,House,87
+Michigan,MI,R,Paul,Mitchell,Male,White,Christianity,Straight,House,57
+Michigan,MI,R,Dave,Trott,Male,White,Christianity,Straight,House,58
+Michigan,MI,D,Debbie,Dingell,Female,White,Christianity,Straight,House,65
+Michigan,MI,D,John,Conyers,Male,African-American,Christianity,Straight,House,89
+Michigan,MI,D,Brenda,Lawrence,Female,African-American,Christianity,Straight,House,64
+Minnesota,MN,D,Timothy,Walz,Male,White,Christianity,Straight,House,54
+Minnesota,MN,R,Jason,Lewis,Male,White,Christianity,Straight,House,63
+Minnesota,MN,R,Erik,Paulsen,Male,White,Christianity,Straight,House,53
+Minnesota,MN,D,Betty,McCollum,Female,White,Christianity,Straight,House,64
+Minnesota,MN,D,Keith,Ellison,Male,African-American,Islam,Straight,House,55
+Minnesota,MN,R,Tom,Emmer,Male,White,Christianity,Straight,House,57
+Minnesota,MN,D,Collin,Peterson,Male,White,Christianity,Straight,House,74
+Minnesota,MN,D,Richard,Nolan,Male,White,Christianity,Straight,House,75
+Missouri,MO,D,William,Clay,Male,African-American,Christianity,Straight,House,62
+Missouri,MO,R,Ann,Wagner,Female,White,Christianity,Straight,House,56
+Missouri,MO,R,Blaine,Luetkemeyer,Male,White,Christianity,Straight,House,66
+Missouri,MO,R,Vicky,Hartzler,Female,White,Christianity,Straight,House,58
+Missouri,MO,D,Emanuel,Cleaver,Male,African-American,Christianity,Straight,House,74
+Missouri,MO,R,Sam,Graves,Male,White,Christianity,Straight,House,55
+Missouri,MO,R,Billy,Long,Male,White,Christianity,Straight,House,63
+Missouri,MO,R,Jason,Smith,Male,White,Christianity,Straight,House,38
+Mississippi,MS,R,Trent,Kelly,Male,White,Christianity,Straight,House,52
+Mississippi,MS,D,Bennie,Thompson,Male,African-American,Christianity,Straight,House,70
+Mississippi,MS,R,Gregg,Harper,Male,White,Christianity,Straight,House,62
+Mississippi,MS,R,Steven,Palazzo,Male,White,Christianity,Straight,House,48
+Montana,MT,R,Ryan,Zinke,Male,White,Christianity,Straight,House,57
+North Carolina,NC,D,G.K.,Butterfield,Male,African-American,Christianity,Straight,House,71
+North Carolina,NC,R,George,Holding,Male,White,Christianity,Straight,House,50
+North Carolina,NC,R,Walter,Jones,Male,White,Christianity,Straight,House,75
+North Carolina,NC,D,David,Price,Male,White,Christianity,Straight,House,78
+North Carolina,NC,R,Virginia,Foxx,Female,White,Christianity,Straight,House,75
+North Carolina,NC,R,Mark,Walker,Male,White,Christianity,Straight,House,49
+North Carolina,NC,R,David,Rouzer,Male,White,Christianity,Straight,House,46
+North Carolina,NC,R,Richard,Hudson,Male,White,Christianity,Straight,House,47
+North Carolina,NC,R,Robert,Pittenger,Male,White,Christianity,Straight,House,70
+North Carolina,NC,R,Patrick,McHenry,Male,White,Christianity,Straight,House,43
+North Carolina,NC,R,Mark,Meadows,Male,White,Christianity,Straight,House,59
+North Carolina,NC,D,Alma,Adams,Female,African-American,Christianity,Straight,House,72
+North Carolina,NC,R,Ted,Budd,Male,White,Christianity,Straight,House,47
+North Dakota,ND,R,Kevin,Cramer,Male,White,Christianity,Straight,House,57
+Nebraska,NE,R,Jeff,Fortenberry,Male,White,Christianity,Straight,House,58
+Nebraska,NE,R,Don,Bacon,Male,White,Christianity,Straight,House,55
+Nebraska,NE,R,Adrian,Smith,Male,White,Christianity,Straight,House,48
+New Hampshire,NH,D,Carol,Shea-Porter,Female,White,Christianity,Straight,House,66
+New Hampshire,NH,D,Annie,Kuster,Female,White,Christianity,Straight,House,62
+New Jersey,NJ,D,Donald,Norcross,Male,White,Christianity,Straight,House,60
+New Jersey,NJ,R,Frank,LoBiondo,Male,White,Christianity,Straight,House,72
+New Jersey,NJ,R,Tom,MacArthur,Male,White,Christianity,Straight,House,58
+New Jersey,NJ,R,Christopher,Smith,Male,White,Christianity,Straight,House,65
+New Jersey,NJ,D,Josh,Gottheimer,Male,White,Christianity,Straight,House,43
+New Jersey,NJ,D,Frank,Pallone,Male,White,Christianity,Straight,House,67
+New Jersey,NJ,R,Leonard,Lance,Male,White,Christianity,Straight,House,66
+New Jersey,NJ,D,Albio,Sires,Male,Hispanic,Christianity,Straight,House,67
+New Jersey,NJ,D,Bill,Pascrell,Male,White,Christianity,Straight,House,81
+New Jersey,NJ,D,Donald,Payne,Male,African-American,Christianity,Straight,House,60
+New Jersey,NJ,R,Rodney,Frelinghuysen,Male,White,Christianity,Straight,House,72
+New Jersey,NJ,D,Bonnie,Watson Coleman,Female,African-American,Christianity,Straight,House,73
+New Mexico,NM,D,Michelle,Lujan Grisham,Female,Hispanic,Christianity,Straight,House,59
+New Mexico,NM,R,Steve,Pearce,Male,White,Christianity,Straight,House,71
+New Mexico,NM,D,Ben Ray,Luján,Male,Hispanic,Christianity,Straight,House,46
+Nevada,NV,D,Dina,Titus,Female,White,Christianity,Straight,House,68
+Nevada,NV,R,Mark,Amodei,Male,White,Christianity,Straight,House,60
+Nevada,NV,D,Jacky,Rosen,Female,White,Judaism,Straight,House,61
+Nevada,NV,D,Ruben,Kihuen,Male,Hispanic,Christianity,Straight,House,38
+New York,NY,R,Lee,Zeldin,Male,White,Judaism,Straight,House,38
+New York,NY,R,Pete,King,Male,White,Christianity,Straight,House,74
+New York,NY,D,Thomas,Suozzi,Male,White,Christianity,Straight,House,56
+New York,NY,D,Kathleen,Rice,Female,White,Christianity,Straight,House,53
+New York,NY,D,Gregory,Meeks,Male,African-American,Christianity,Straight,House,65
+New York,NY,D,Grace,Meng,Female,Asian,Christianity,Straight,House,43
+New York,NY,D,Nydia,Velázquez,Female,Hispanic,Christianity,Straight,House,65
+New York,NY,D,Hakeem,Jeffries,Male,African-American,Christianity,Straight,House,48
+New York,NY,D,Yvette,Clarke,Female,African-American,Christianity,Straight,House,54
+New York,NY,D,Jerrold,Nadler,Male,White,Judaism,Straight,House,71
+New York,NY,R,Daniel,Donovan,Male,White,Christianity,Straight,House,62
+New York,NY,D,Carolyn,Maloney,Female,White,Christianity,Straight,House,72
+New York,NY,D,Adriano,Espaillat,Male,Hispanic,Christianity,Straight,House,64
+New York,NY,D,Joseph,Crowley,Male,White,Christianity,Straight,House,56
+New York,NY,D,José,Serrano,Male,Hispanic,Christianity,Straight,House,75
+New York,NY,D,Eliot,Engel,Male,White,Judaism,Straight,House,71
+New York,NY,D,Nita,Lowey,Female,White,Judaism,Straight,House,81
+New York,NY,D,Sean Patrick,Maloney,Male,White,Christianity,Gay,House,52
+New York,NY,R,John,Faso,Male,White,Christianity,Straight,House,66
+New York,NY,D,Paul,Tonko,Male,White,Christianity,Straight,House,69
+New York,NY,R,Elise,Stefanik,Female,White,Christianity,Straight,House,34
+New York,NY,R,Claudia,Tenney,Female,White,Christianity,Straight,House,57
+New York,NY,R,Tom,Reed,Male,White,Christianity,Straight,House,47
+New York,NY,R,John,Katko,Male,White,Christianity,Straight,House,56
+New York,NY,D,Louise,Slaughter,Female,White,Christianity,Straight,House,89
+New York,NY,D,Brian,Higgins,Male,White,Christianity,Straight,House,59
+New York,NY,R,Chris,Collins,Male,White,Christianity,Straight,House,68
+Ohio,OH,R,Steve,Chabot,Male,White,Christianity,Straight,House,65
+Ohio,OH,R,Brad,Wenstrup,Male,White,Christianity,Straight,House,60
+Ohio,OH,D,Joyce,Beatty,Female,African-American,Christianity,Straight,House,68
+Ohio,OH,R,Jim,Jordan,Male,White,Christianity,Straight,House,54
+Ohio,OH,R,Robert,Latta,Male,White,Christianity,Straight,House,62
+Ohio,OH,R,Bill,Johnson,Male,White,Christianity,Straight,House,64
+Ohio,OH,R,Bob,Gibbs,Male,White,Christianity,Straight,House,64
+Ohio,OH,R,Warren,Davidson,Male,White,Christianity,Straight,House,48
+Ohio,OH,D,Marcy,Kaptur,Female,White,Christianity,Straight,House,72
+Ohio,OH,R,Michael,Turner,Male,White,Christianity,Straight,House,58
+Ohio,OH,D,Marcia,Fudge,Female,African-American,Christianity,Straight,House,66
+Ohio,OH,R,Pat,Tiberi,Male,White,Christianity,Straight,House,56
+Ohio,OH,D,Tim,Ryan,Male,White,Christianity,Straight,House,45
+Ohio,OH,R,David,Joyce,Male,White,Christianity,Straight,House,61
+Ohio,OH,R,Steve,Stivers,Male,White,Christianity,Straight,House,53
+Ohio,OH,R,Jim,Renacci,Male,White,Christianity,Straight,House,60
+Oklahoma,OK,R,Jim,Bridenstine,Male,White,Christianity,Straight,House,43
+Oklahoma,OK,R,Markwayne,Mullin,Male,Native American,Christianity,Straight,House,41
+Oklahoma,OK,R,Frank,Lucas,Male,White,Christianity,Straight,House,58
+Oklahoma,OK,R,Tom,Cole,Male,Native American,Christianity,Straight,House,69
+Oklahoma,OK,R,Steve,Russell,Male,White,Christianity,Straight,House,55
+Oregon,OR,D,Suzanne,Bonamici,Female,White,Judaism,Straight,House,64
+Oregon,OR,R,Greg,Walden,Male,White,Christianity,Straight,House,61
+Oregon,OR,D,Earl,Blumenauer,Male,White,Christianity,Straight,House,70
+Oregon,OR,D,Peter,DeFazio,Male,White,Christianity,Straight,House,71
+Oregon,OR,D,Kurt,Schrader,Male,White,Christianity,Straight,House,67
+Pennsylvania,PA,D,Robert,Brady,Male,White,Christianity,Straight,House,73
+Pennsylvania,PA,D,Dwight,Evans,Male,African-American,Christianity,Straight,House,64
+Pennsylvania,PA,R,Mike,Kelly,Male,White,Christianity,Straight,House,70
+Pennsylvania,PA,R,Scott,Perry,Male,White,Christianity,Straight,House,56
+Pennsylvania,PA,R,Glenn,Thompson,Male,White,Christianity,Straight,House,59
+Pennsylvania,PA,R,Ryan,Costello,Male,White,Christianity,Straight,House,42
+Pennsylvania,PA,R,Pat,Meehan,Male,White,Christianity,Straight,House,63
+Pennsylvania,PA,R,Brian,Fitzpatrick,Male,White,Christianity,Straight,House,45
+Pennsylvania,PA,R,Bill,Shuster,Male,White,Christianity,Straight,House,57
+Pennsylvania,PA,R,Tom,Marino,Male,White,Christianity,Straight,House,66
+Pennsylvania,PA,R,Lou,Barletta,Male,White,Christianity,Straight,House,62
+Pennsylvania,PA,R,Keith,Rothfus,Male,White,Christianity,Straight,House,56
+Pennsylvania,PA,D,Brendan,Boyle,Male,White,Christianity,Straight,House,41
+Pennsylvania,PA,D,Mike,Doyle,Male,White,Christianity,Straight,House,65
+Pennsylvania,PA,R,Charles,Dent,Male,White,Christianity,Straight,House,58
+Pennsylvania,PA,R,Lloyd,Smucker,Male,White,Christianity,Straight,House,54
+Pennsylvania,PA,D,Matthew,Cartwright,Male,White,Christianity,Straight,House,57
+Pennsylvania,PA,R,Tim,Murphy,Male,White,Christianity,Straight,House,66
+Rhode Island,RI,D,David,Cicilline,Male,White,Judaism,Gay,House,57
+Rhode Island,RI,D,Jim,Langevin,Male,White,Christianity,Straight,House,54
+South Carolina,SC,R,Mark,Sanford,Male,White,Christianity,Straight,House,58
+South Carolina,SC,R,Joe,Wilson,Male,White,Christianity,Straight,House,71
+South Carolina,SC,R,Jeff,Duncan,Male,White,Christianity,Straight,House,52
+South Carolina,SC,R,Trey,Gowdy,Male,White,Christianity,Straight,House,54
+South Carolina,SC,R,Ralph,Norman,Male,White,Christianity,Straight,House,65
+South Carolina,SC,D,James,Clyburn,Male,African-American,Christianity,Straight,House,78
+South Carolina,SC,R,Tom,Rice,Male,White,Christianity,Straight,House,61
+South Dakota,SD,R,Kristi,Noem,Female,White,Christianity,Straight,House,47
+Tennessee,TN,R,Phil,Roe,Male,White,Christianity,Straight,House,73
+Tennessee,TN,R,John,Duncan,Male,White,Christianity,Straight,House,71
+Tennessee,TN,R,Chuck,Fleischmann,Male,White,Christianity,Straight,House,56
+Tennessee,TN,R,Scott,DesJarlais,Male,White,Christianity,Straight,House,54
+Tennessee,TN,D,Jim,Cooper,Male,White,Christianity,Straight,House,64
+Tennessee,TN,R,Diane,Black,Female,White,Christianity,Straight,House,67
+Tennessee,TN,R,Marsha,Blackburn,Female,White,Christianity,Straight,House,66
+Tennessee,TN,R,David,Kustoff,Male,White,Judaism,Straight,House,52
+Tennessee,TN,D,Steve,Cohen,Male,White,Judaism,Straight,House,69
+Texas,TX,R,Louie,Gohmert,Male,White,Christianity,Straight,House,65
+Texas,TX,R,Ted,Poe,Male,White,Christianity,Straight,House,70
+Texas,TX,R,Sam,Johnson,Male,White,Christianity,Straight,House,88
+Texas,TX,R,John,Ratcliffe,Male,White,Christianity,Straight,House,53
+Texas,TX,R,Jeb,Hensarling,Male,White,Christianity,Straight,House,61
+Texas,TX,R,Joe,Barton,Male,White,Christianity,Straight,House,69
+Texas,TX,R,John,Culberson,Male,White,Christianity,Straight,House,62
+Texas,TX,R,Kevin,Brady,Male,White,Christianity,Straight,House,63
+Texas,TX,D,Al,Green,Male,African-American,Christianity,Straight,House,71
+Texas,TX,R,Michael,McCaul,Male,White,Christianity,Straight,House,56
+Texas,TX,R,Michael,Conaway,Male,White,Christianity,Straight,House,70
+Texas,TX,R,Kay,Granger,Female,White,Christianity,Straight,House,75
+Texas,TX,R,Mac,Thornberry,Male,White,Christianity,Straight,House,60
+Texas,TX,R,Randy,Weber,Male,White,Christianity,Straight,House,65
+Texas,TX,D,Vicente,González,Male,Hispanic,Christianity,Straight,House,51
+Texas,TX,D,Beto,O'Rourke,Male,White,Christianity,Straight,House,46
+Texas,TX,R,Bill,Flores,Male,Hispanic,Christianity,Straight,House,64
+Texas,TX,D,Shelia,Jackson Lee,Female,African-American,Christianity,Straight,House,68
+Texas,TX,R,Jodey,Arrington,Male,White,Christianity,Straight,House,46
+Texas,TX,D,Joaquin,Castro,Male,Hispanic,Christianity,Straight,House,44
+Texas,TX,R,Lamar,Smith,Male,White,Christianity,Straight,House,71
+Texas,TX,R,Pete,Olson,Male,White,Christianity,Straight,House,56
+Texas,TX,R,Will,Hurd,Male,African-American,Christianity,Straight,House,41
+Texas,TX,R,Kenny,Marchant,Male,White,Christianity,Straight,House,67
+Texas,TX,R,Roger,Williams,Male,White,Christianity,Straight,House,69
+Texas,TX,R,Michael,Burgess,Male,White,Christianity,Straight,House,68
+Texas,TX,R,Blake,Farenthold,Male,White,Christianity,Straight,House,57
+Texas,TX,D,Henry,Cuellar,Male,Hispanic,Christianity,Straight,House,63
+Texas,TX,D,Gene,Green,Male,White,Christianity,Straight,House,71
+Texas,TX,D,Eddie Bernice,Johnson,Female,African-American,Christianity,Straight,House,83
+Texas,TX,R,John,Carter,Male,White,Christianity,Straight,House,77
+Texas,TX,R,Pete,Sessions,Male,White,Christianity,Straight,House,63
+Texas,TX,D,Marc,Veasey,Male,African-American,Christianity,Straight,House,47
+Texas,TX,D,Filemon,Vela,Male,Hispanic,Christianity,Straight,House,55
+Texas,TX,D,Lloyd,Doggett,Male,White,Christianity,Straight,House,72
+Texas,TX,R,Brian,Babin,Male,White,Christianity,Straight,House,70
+Utah,UT,R,Rob,Bishop,Male,White,Christianity,Straight,House,67
+Utah,UT,R,Chris,Stewart,Male,White,Christianity,Straight,House,58
+Utah,UT,R,Jason,Chaffetz,Male,White,Christianity,Straight,House,51
+Utah,UT,R,Mia,Love,Female,African-American,Christianity,Straight,House,43
+Virginia,VA,R,Robert,Wittman,Male,White,Christianity,Straight,House,59
+Virginia,VA,R,Scott,Taylor,Male,White,Christianity,Straight,House,39
+Virginia,VA,D,Robert,Scott,Male,African-American,Christianity,Straight,House,71
+Virginia,VA,D,Donald,McEachin,Male,African-American,Christianity,Straight,House,57
+Virginia,VA,R,Tom,Garrett,Male,White,Christianity,Straight,House,46
+Virginia,VA,R,Bob,Goodlatte,Male,White,Christianity,Straight,House,66
+Virginia,VA,R,Dave,Brat,Male,White,Christianity,Straight,House,54
+Virginia,VA,D,Don,Beyer,Male,White,Christianity,Straight,House,68
+Virginia,VA,R,Morgan,Griffith,Male,White,Christianity,Straight,House,60
+Virginia,VA,R,Barbara,Comstock,Female,White,Christianity,Straight,House,59
+Virginia,VA,D,Gerald,Connolly,Male,White,Christianity,Straight,House,68
+Vermont,VT,D,Peter,Welch,Male,White,Christianity,Straight,House,71
+Washington,WA,D,Suzan,DelBene,Female,White,Christianity,Straight,House,56
+Washington,WA,D,Rick,Larsen,Male,White,Christianity,Straight,House,53
+Washington,WA,R,Jaime,Herrera Beutler,Female,Hispanic,Christianity,Straight,House,40
+Washington,WA,R,Dan,Newhouse,Male,White,Christianity,Straight,House,63
+Washington,WA,R,Cathy,McMorris Rodgers,Female,White,Christianity,Straight,House,49
+Washington,WA,D,Derek,Kilmer,Male,White,Christianity,Straight,House,44
+Washington,WA,D,Pramila,Jayapal,Female,Asian,Hinduism,Straight,House,53
+Washington,WA,R,Dave,Reichert,Male,White,Christianity,Straight,House,68
+Washington,WA,D,Adam,Smith,Male,White,Christianity,Straight,House,53
+Washington,WA,D,Denny,Heck,Male,White,Christianity,Straight,House,66
+Wisconsin,WI,R,Paul,Ryan,Male,White,Christianity,Straight,House,48
+Wisconsin,WI,D,Mark,Pocan,Male,White,Unspecified,Gay,House,54
+Wisconsin,WI,D,Ron,Kind,Male,White,Christianity,Straight,House,55
+Wisconsin,WI,D,Gwen,Moore,Female,African-American,Christianity,Straight,House,67
+Wisconsin,WI,R,James,Sensenbrenner,Male,White,Christianity,Straight,House,75
+Wisconsin,WI,R,Glenn,Grothman,Male,White,Christianity,Straight,House,63
+Wisconsin,WI,R,Sean,Duffy,Male,White,Christianity,Straight,House,47
+Wisconsin,WI,R,Mike,Gallagher,Male,White,Christianity,Straight,House,34
+West Virginia,WV,R,David,McKinley,Male,White,Christianity,Straight,House,71
+West Virginia,WV,R,Alex,Mooney,Male,Hispanic,Christianity,Straight,House,47
+West Virginia,WV,R,Evan,Jenkins,Male,White,Christianity,Straight,House,58
+Wyoming,WY,R,Liz,Cheney,Female,White,Christianity,Straight,House,52
